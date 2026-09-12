@@ -1,0 +1,5 @@
+---
+redis_package: redis
+redis_service: redis
+redis_conf_path: /etc/redis.conf
+redis_version: "6.2.22-1.el9_8"
